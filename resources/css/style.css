@@ -1,4 +1,32 @@
 *{
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body {
+    height: 1000px;
+    width: 1100px;
+    background-color: black;
+}
+h1 {
+    font: size 50px;
+    color: white;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+h3 {
+    font-size:21px;
+    color:gray;
+}
+h5{
+    text-align: right;
+    color: gray;
+    margin-right: 4px;
+}
+a {
+    color: aquamarine;
+    font-size:16px;
 }
